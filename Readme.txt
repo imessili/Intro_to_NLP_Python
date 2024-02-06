@@ -1,4 +1,4 @@
-Ce a été réalisé par: 
+Réalisé par: 
 MESSILI Islem
 
 Instruction pour lancer le notebook:
